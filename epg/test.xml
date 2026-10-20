@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="GitHub-Actions-Test">
+  <channel id="test.channel">
+    <display-name>Test Channel</display-name>
+    <display-name>1</display-name>
+  </channel>
+  
+  <programme start="START_TIME" stop="STOP_TIME" channel="test.channel">
+    <title lang="en">Test EPG</title>
+    <desc lang="en">Last Refresh on REFRESH_DATE.</desc>
+  </programme>
+</tv>
