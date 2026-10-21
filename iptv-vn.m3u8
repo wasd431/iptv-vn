@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_VN.xml"
 
 # VTV
-#EXTINF:-1 tvg-id="411383" group-title="Truyền Hình VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV1.vn.png", VTV1 HD
+#EXTINF:-1 tvg-id="411383" group-title="Kênh VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV1.vn.png", VTV1 HD
 https://dethich.pw/vtv1/index.m3u8
 
-#EXTINF:-1 tvg-id="411493" group-title="Truyền Hình VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV2.vn.png", VTV2 HD
+#EXTINF:-1 tvg-id="411493" group-title="Kênh VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV2.vn.png", VTV2 HD
 https://dethich.pw/vtv2/index.m3u8
 
-#EXTINF:-1 tvg-id="411494" group-title="Truyền Hình VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV3.vn.png", VTV3 HD
+#EXTINF:-1 tvg-id="411494" group-title="Kênh VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV3.vn.png", VTV3 HD
 https://dethich.pw/vtv3/index.m3u8
 
-#EXTINF:-1 tvg-id="411406" group-title="Truyền Hình VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV4.vn.png", VTV4 HD
+#EXTINF:-1 tvg-id="411406" group-title="Kênh VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV4.vn.png", VTV4 HD
 https://dethich.pw/vtv4/index.m3u8
 
-#EXTINF:-1 tvg-id="411398" group-title="Truyền Hình VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV5.vn.png", VTV5 HD
+#EXTINF:-1 tvg-id="411398" group-title="Kênh VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV5.vn.png", VTV5 HD
 https://dethich.pw/vtv5/index.m3u8
 
-#EXTINF:-1 tvg-id="411458" group-title="Truyền Hình VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV5TayNamBo.vn.png", VTV5 TNB HD
+#EXTINF:-1 tvg-id="411458" group-title="Kênh VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV5TayNamBo.vn.png", VTV5 TNB HD
 https://dethich.pw/vtv5tnb/index.m3u8
 
-#EXTINF:-1 tvg-id="411529" group-title="Truyền Hình VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV5TayNguyen.vn.png", VTV5 TN HD
+#EXTINF:-1 tvg-id="411529" group-title="Kênh VTV" tvg-logo="https://cdn.iptvboss.pro/logos/Vietnam/VTV5TayNguyen.vn.png", VTV5 TN HD
 https://dethich.pw/vtv5tn/index.m3u8
